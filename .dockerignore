@@ -3,5 +3,6 @@ __pycache__/
 *.pyc
 .pytest_cache/
 data/
+.git/
 experiments/results/
-*.egg-info/
+tests/
